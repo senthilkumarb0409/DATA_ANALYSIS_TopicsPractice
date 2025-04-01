@@ -1,2 +1,4 @@
 # DATA_ANALYSIS_TopicsPractice
-SQL | Excel | Python | Power BI | tableau
+SQL and Advanced SQL | Advanced Excel | Python | Power BI | Tableau
+
+
