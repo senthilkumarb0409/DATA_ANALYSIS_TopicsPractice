@@ -1,8 +1,8 @@
 # DATA_ANALYSIS:
-|SQL and Advanced SQL | 
-|Advanced Excel       | 
-|Python               | 
-|PowerBI              | 
-|Tableau              |
+|SQL and Advanced SQL ||Advanced Excel ||Python | |PowerBI | |Tableau |
+
+ 
+
+
 
 
