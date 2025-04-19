@@ -1,0 +1,11 @@
+PassengerId,Name,Sex,Age,Pclass,Fare,Survived
+1,Alice,female,25.0,1,100.0,1
+2,Bob,male,30.0,2,60.0,0
+3,Charlie,male,35.0,3,30.0,0
+4,David,male,40.0,1,120.0,1
+5,Eva,female,22.0,3,15.0,0
+6,Frank,male,28.0,2,55.0,0
+7,Grace,female,32.0,1,80.0,1
+8,Helen,female,,3,20.0,1
+9,Ian,male,45.0,2,65.0,0
+10,Jane,female,27.0,1,90.0,1
