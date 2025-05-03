@@ -1,0 +1,26 @@
+{
+    "columns": [
+        "name",
+        "age",
+        "gender",
+        "income",
+        "email",
+        "total"
+    ],
+    "dtypes": {
+        "name": "int64",
+        "age": "float64",
+        "gender": "int64",
+        "income": "float64",
+        "email": "int64",
+        "total": "float64"
+    },
+    "nulls": {
+        "name": 0,
+        "age": 0,
+        "gender": 0,
+        "income": 0,
+        "email": 0,
+        "total": 0
+    }
+}

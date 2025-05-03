@@ -1,0 +1,24 @@
+DATA CLEANING REPORT
+====================
+
+Report Date: 2025-05-03 15:59:49
+
+Final Shape: (10000, 8)
+
+Columns:
+- TRANSACTION ID (object)
+- ITEM (object)
+- QUANTITY (object)
+- PRICE PER UNIT (object)
+- TOTAL SPENT (object)
+- PAYMENT METHOD (object)
+- LOCATION (object)
+- TRANSACTION DATE (datetime64[ns])
+
+Notes:
+- Duplicates removed.
+- Column names standardized.
+- Categorical text cleaned and errors normalized.
+- Missing values handled (mode/median/default date used).
+- Highly missing columns dropped (>50%).
+- Row order preserved.

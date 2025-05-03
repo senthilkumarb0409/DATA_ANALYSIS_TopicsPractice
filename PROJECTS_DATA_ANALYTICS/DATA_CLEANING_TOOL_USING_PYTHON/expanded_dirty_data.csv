@@ -1,0 +1,16 @@
+Name,Age,Gender,Income,Email
+John,28.0,Male,50000.0,john.doe@example.com
+Jane,,Female,55000.0,jane_smith@example.com
+Tom,35.0,Male,60000.0,tom.jones@example.com
+Anna,22.0,Female,,anna.brown@example.com
+John,28.0,Male,50000.0,john.doe@example.com
+Lucas,30.0,Male,45000.0,lucas_white@example.com
+Laura,25.0,Female,47000.0,laura.green@example.com
+,40.0,Male,70000.0,michael.white@example.com
+Sophia,29.0,Female,60000.0,sophia_blue@example.com
+Ethan,38.0,Male,55000.0,ethan_red@example.com
+Tom,,Male,62000.0,tom.jones@example.com
+James,30.0,Male,,james.black@example.com
+Emma,24.0,Female,48000.0,emma_white@example.com
+Oliver,,Male,57000.0,oliver_blue@example.com
+Lucas,30.0,Male,45000.0,lucas_white@example.com
